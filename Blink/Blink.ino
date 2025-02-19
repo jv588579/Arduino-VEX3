@@ -3,7 +3,7 @@ void setup() {
 }
 
 void loop() {
-on(10, 50); // ON 1s (1000ms), OFF 0.5s (500 ms)
+on(100, 50); // ON 1s (1000ms), OFF 0.5s (500 ms)
 }
 
 void on(int x,int y){
